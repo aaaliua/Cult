@@ -1,3 +1,5 @@
+搜索
+
 ![Logo 1][10]
 
 [![Build Status](https://api.travis-ci.org/ppamorim/Cult.svg?branch=master)](https://travis-ci.org/ppamorim/Cult)
